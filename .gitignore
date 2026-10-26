@@ -1,0 +1,10 @@
+//
+//  .gitignore
+//  haiku'sHome
+//
+//  Created by Sabrina C. Sales on 26/10/2026.
+//
+
+.env
+.DS_Store
+GoogleService-Info.plist
